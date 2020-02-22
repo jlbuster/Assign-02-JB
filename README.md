@@ -3,15 +3,12 @@ Carleton Coding Bootcamp Second Assignment
 
 CSS and Bootstrap : Responsive Portfolio
 
-Three files included : index.html , portfolio.html , and contact.html
+portfolio.html includes a navbar along with images and a footer. Links in navbar lead to contact.html and index.html
 
-portfolio.html : 
-link :
+index.html contains an about me section. Links in navbar lead to contact.html and portfolio.html
 
-index.html :
-link :
+contact.html allows the user to contact with their name, email and a message, along with a submit button.
 
-contact.html :
-link :
+Website link : https://jlbuster.github.io/Assign-02-JB/.
 
 
